@@ -170,3 +170,8 @@ h1, h2, h3 {
 	margin: 0 10px;
 	color: #000;
 }
+
+.footer__about {
+	text-align: center;
+	padding-bottom: 20px;
+}
